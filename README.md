@@ -1,3 +1,6 @@
+Hi there 👋 I'm Juyel
+FullStack Web Developer
+
 # 💫 About Me:
 🔭 I’m currently working on FoodEase<br>🌱 I’m currently learning AWS<br>💬 Ask me about Backend, Fullstack<br>📫 How to reach me juyelhushen@gmail.com<br>⚡ Fun fact I'm always eager to learn new things and take on new challenges!<br>
 
