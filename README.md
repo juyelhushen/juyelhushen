@@ -1,31 +1,149 @@
-Hi there 👋 I'm Juyel
-# Software Developer
+<h1 align="center">Hi 👋, I'm Juyel</h1>
 
-# 💫 About Me:
-🎼 I’m currently working on Cut2Short<br>🌱 I’m currently learning AWS<br>💬 Ask me about Backend, Fullstack<br>📫 How to reach me juyelhushen@gmail.com<br>⚡ Fun fact I'm always eager to learn new things and take on new challenges!
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=F89820&center=true&vCenter=true&width=700&lines=Backend+Engineer+with+Java;Spring+Boot+and+Microservices;React+for+Modern+UIs;Learning+AWS+Cloud;Debugging+is+my+Cardio"
+  />
+</p>
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mahammad.juyel.1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamjuyel/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juyel-hushen-770674170/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Juyel1881350) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jskool) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)![ReactJs](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=juyelhushen&theme=bear&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=juyelhushen&theme=bear&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=juyelhushen&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=juyelhushen&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+☕ 🚀 ⚛️ ☁️
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=juyelhushen&icon=0&color=13)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/JuyelHushen) 
+## 😄 Developer at Work
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+    width="120"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F89820&center=true&vCenter=true&width=550&lines=Starting+Spring+Boot+Application...;Checking+Logs...;Fixing+One+More+Bug...;Application+Started+Successfully"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer-developer.gif"
+    width="420"
+  />
+</p>
+
+<p align="center">
+  <i>When the Spring Boot app finally runs without errors ☕🔥</i>
+</p>
+
+---
+
+## 💫 About Me
+
+- ☕ Backend-focused developer (Java + Spring Boot)
+- ⚛️ Full Stack experience with React & Angular
+- 🌱 Learning **AWS & System Design**
+- 💬 Ask me about **Backend, APIs, Microservices**
+- ⚡ Fun fact: I trust logs more than people 😄
+- 📫 Reach me: **juyelhushen@gmail.com**
+
+---
+
+## 🧠 Engineering Mindset
+
+- Clean, maintainable backend architecture
+- SOLID principles & design patterns
+- Production-ready APIs
+- Observability: logs, metrics & alerts
+- Code that scales, not just works
+
+> “If it’s hard to debug in production, it’s not done yet.”
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/juyel-hushen-770674170/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="https://instagram.com/iamjuyel/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+<a href="https://x.com/Juyel1881350">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+</a>
+<a href="https://youtube.com/@jskool">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
+</a>
+</p>
+
+---
+
+## 🧠 Tech Stack
+
+### ☕ Backend (Primary)
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs" />
+</p>
+
+### 🗄️ Database & Cache
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
+</p>
+
+### ⚛️ Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,typescript,js,html,css,tailwind,angular" />
+</p>
+
+### ☁️ DevOps & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux" />
+</p>
+
+---
+
+## 😂 Programmer Humor
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xUA7aQOfOFZyC4qvZe/giphy.gif" width="350"/>
+</p>
+
+---
+
+## ✍️ Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</p>
+
+---
+
+## ☕ Support My Work
+
+<p align="center">
+<a href="https://paypal.me/JuyelHushen">
+  <img src="https://img.shields.io/badge/PayPal-Support%20Me-00457C?style=for-the-badge&logo=paypal"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=juyelhushen&label=Profile%20Views&color=orange&style=flat" 
+    alt="profile views" 
+  />
+</p>
+
+<p align="center">
+  <b>☕ Java-first | Backend-driven | Production-minded</b>
+</p>
+
+<p align="center">
+  Building systems that survive real-world traffic 🚀
+</p>
+
