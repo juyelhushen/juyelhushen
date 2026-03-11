@@ -1,5 +1,8 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Juyel Hushen</h1>
-<h3 align="center">Backend Engineer | Java & Spring Boot Specialist</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=700&color=F78C1F&center=true&vCenter=true&width=700&lines=Backend+Engineer;Java+%26+Spring+Boot+Specialist;Building+Scalable+Backend+Systems;Microservices+Architecture;Clean+Code+%7C+SOLID+Principles;Cloud+Enthusiast+(AWS)" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/juyel-hushen-770674170/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -17,8 +20,8 @@
 
 I'm a passionate Backend Engineer with a strong focus on building reliable, high-performance systems. My core expertise lies in Java and the Spring ecosystem, where I design and implement microservices, RESTful APIs, and robust backend logic.
 
-- 🔭 I’m currently diving deep into **AWS Cloud Architecture & System Design**.
-- 👯 I’m looking to collaborate on **open-source Java/Spring Boot projects**.
+- 🔭 I'm currently diving deep into **AWS Cloud Architecture & System Design**.
+- 👯 I'm looking to collaborate on **open-source Java/Spring Boot projects**.
 - 💬 Ask me about **Backend Development, Microservices, APIs, and Debugging**.
 - ⚡ Fun fact: I believe logs are a developer's best friend. They never lie. 😉
 
