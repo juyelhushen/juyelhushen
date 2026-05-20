@@ -73,15 +73,12 @@ open_to     :  Collaborations · Open Source · Interesting Problems
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
      SKILLS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<table width="100%"><tr><td>
 
 **`❯ ls -la skills/`**
 
-<br/>
-
-<table width="100%">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="25%">
 
 **🟢 Backend Core**
 
@@ -94,9 +91,9 @@ open_to     :  Collaborations · Open Source · Interesting Problems
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+<td valign="top" width="25%">
 
-**🟣 AI / ML** &nbsp; `● Exploring`
+**🟣 AI / ML** `● Exploring`
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
@@ -110,9 +107,7 @@ open_to     :  Collaborations · Open Source · Interesting Problems
 ![ML](https://img.shields.io/badge/ML_Fundamentals-7B61FF?style=flat-square)
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td valign="top" width="25%">
 
 **🔵 Databases & Cache**
 
@@ -121,8 +116,7 @@ open_to     :  Collaborations · Open Source · Interesting Problems
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
 **🟠 DevOps & Cloud**
 
@@ -133,9 +127,7 @@ open_to     :  Collaborations · Open Source · Interesting Problems
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 </td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+<td valign="top" width="25%">
 
 **🩵 Frontend**
 
@@ -148,8 +140,6 @@ open_to     :  Collaborations · Open Source · Interesting Problems
 </td>
 </tr>
 </table>
-
-</td></tr></table>
 
 <br/>
 
