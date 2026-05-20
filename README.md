@@ -159,9 +159,10 @@ const juyel: Engineer = {
 ## ◈ GitHub Analytics
 
 <div align="center">
+<img height="180em" src="https://github-stats-alpha.vercel.app/api?username=juyelhushen&cc=0D1117&tc=00FFD1&ic=7B61FF&bc=0D1117" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juyelhushen&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=juyelhushen&theme=github_dark" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juyelhushen&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=7B61FF&text_color=C9D1D9&border_radius=10&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juyelhushen&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FFD1&text_color=C9D1D9&border_radius=10&langs_count=8" />
 
 <br/>
 
