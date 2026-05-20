@@ -1,19 +1,14 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED HEADER                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,30:0A192F,60:0D2137,100:0A0A0A&height=200&section=header&text=JUYEL%20HUSHEN&fontSize=60&fontColor=00FFD1&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20AI%20Explorer%20%C2%B7%20Builder&descSize=18&descAlignY=60&descColor=7EFFF5&animation=fadeIn" width="100%" />
+<!-- CYBERPUNK SLICE HEADER — sharp diagonal cut, no waves -->
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,40:0A3040,70:003D33,100:00FFD1&height=220&section=header&text=JUYEL%20HUSHEN&fontSize=64&fontColor=ffffff&fontAlignY=70&rotate=-5&desc=Full-Stack%20Engineer%20%E2%80%A2%20AI%20Explorer%20%E2%80%A2%20Builder&descSize=17&descAlignY=85&descColor=00FFD1&reversal=false&animation=blinking" width="100%" />
 
 <br/>
 
-<!-- ANIMATED NAME TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1200&color=00FFD1&center=true&vCenter=true&width=700&lines=const+engineer+%3D+%22Full-Stack+%2B+AI%22%3B;if+(problem)+%7B+engineer.solve(it)%3B+%7D;%2F%2F+Building+things+that+actually+work;stack.includes(%22Spring+Boot%22+%2B+%22React%22)%3B;AI.explore(%5B%22RAG%22%2C+%22LLMs%22%2C+%22Agents%22%5D)%3B;%2F%2F+coffee.consumed++%3B+bugs--%3B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=1000&color=00FFD1&center=true&vCenter=true&width=720&lines=const+engineer+%3D+%22Full-Stack+%2B+AI%22%3B;if+(problem)+%7B+engineer.solve(it)%3B+%7D;stack.includes(%22Spring+Boot%22+%2B+%22React%22)%3B;AI.explore(%5B%22RAG%22%2C+%22LLMs%22%2C+%22Agents%22%5D)%3B;%2F%2F+coffee.consumed%2B%2B+%3B+bugs--+%3B;%2F%2F+Building+things+that+actually+work" alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- SOCIAL BADGES with hover glow effect -->
 <a href="https://linkedin.com/in/juyel-hushen-770674170/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;
@@ -36,13 +31,9 @@
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFD1,50:7B61FF,100:FF6B35&height=2" width="100%" />
+
 ---
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       ABOUT ME                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,100:0D2137&height=3" width="100%" />
 
 ## ◈ `whoami`
 
@@ -66,10 +57,6 @@ const juyel: Engineer = {
 ```
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    SKILL MATRIX                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## ◈ Tech Arsenal
 
@@ -133,10 +120,6 @@ const juyel: Engineer = {
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    ROADMAP                                 -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 ## ◈ Learning Roadmap
 
 ```
@@ -152,17 +135,13 @@ const juyel: Engineer = {
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   GITHUB STATS                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 ## ◈ GitHub Analytics
 
 <div align="center">
+
 <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=juyelhushen&cc=0D1117&tc=00FFD1&ic=7B61FF&bc=0D1117" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juyelhushen&theme=github_dark" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=juyelhushen&theme=github_dark" />
-
 
 <br/>
 
@@ -176,10 +155,6 @@ const juyel: Engineer = {
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  CONTRIBUTION SNAKE                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 ## ◈ Contribution Snake
 
 <div align="center">
@@ -190,27 +165,7 @@ const juyel: Engineer = {
   </picture>
 </div>
 
-> **⚙️ To activate the snake:** Add a GitHub Actions workflow — see setup instructions below.
-
 ---
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  TROPHIES                                 -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--
-## ◈ Achievements
-
- <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=juyelhushen&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
-
-</div>
--->
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                 PHILOSOPHY / TERMINAL                     -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## ◈ The Engineer's Mindset
 
@@ -271,17 +226,12 @@ public interface EngineeringMindset {
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   WAVE FOOTER                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFD1,50:7B61FF,100:FF6B35&height=2" width="100%" />
+
+<!-- SHARP DIAGONAL SLICE FOOTER — mirrored from header -->
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,40:003D33,70:0A3040,100:0D1117&height=160&section=footer&text=Let%27s+Build+Something+Extraordinary&fontSize=24&fontColor=00FFD1&fontAlignY=45&rotate=5&reversal=true&animation=blinking&desc=Backend-driven+%C2%B7+Full-Stack+ready+%C2%B7+AI-curious+%C2%B7+Debugging+since+forever&descSize=14&descColor=7EFFF5&descAlignY=68" width="100%" />
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D2137,50:0A192F,100:0D0D0D&height=140&section=footer&text=Let's+Build+Something+Extraordinary&fontSize=22&fontColor=00FFD1&fontAlignY=55&animation=twinkling" width="100%" />
-
-<br/>
-
-**Backend-driven · Full-Stack ready · AI-curious · Debugging since forever**
 
 <br/>
 
@@ -294,5 +244,3 @@ public interface EngineeringMindset {
 *"The best code is the code that ships — and survives Monday morning."*
 
 </div>
-
----
