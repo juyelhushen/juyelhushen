@@ -1,0 +1,52 @@
+<svg width="900" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="scan" x="0" y="0" width="1" height="4" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="1" height="2" fill="rgba(0,255,65,0.018)"/>
+    </pattern>
+    <pattern id="grid" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(0,255,65,0.045)" stroke-width="0.5"/>
+    </pattern>
+    <radialGradient id="fg" cx="50%" cy="100%" r="60%">
+      <stop offset="0%" stop-color="#003a0a" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glowsm" x="-10%" y="-60%" width="120%" height="220%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&amp;family=Share+Tech+Mono&amp;display=swap');
+      .mono { font-family: 'Share Tech Mono', 'Courier New', monospace; }
+      .orb  { font-family: 'Orbitron', 'Courier New', monospace; }
+      .cursor-blink { animation: blink 1s step-end infinite; }
+      @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
+    </style>
+    <clipPath id="clip"><rect width="900" height="120"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="900" height="120" fill="#000000"/>
+    <rect width="900" height="120" fill="url(#fg)"/>
+    <rect width="900" height="120" fill="url(#grid)"/>
+    <rect width="900" height="120" fill="url(#scan)"/>
+
+    <line x1="0" y1="0" x2="900" y2="0" stroke="#00ff41" stroke-width="1.5" opacity="0.9"/>
+    <line x1="0" y1="119" x2="900" y2="119" stroke="#00ff41" stroke-width="1.5" opacity="0.9"/>
+
+    <polygon points="0,0 20,0 0,20" fill="#00ff41" opacity="0.7"/>
+    <polygon points="900,120 880,120 900,100" fill="#00ff41" opacity="0.7"/>
+
+    <text x="450" y="38" class="orb" font-size="16" font-weight="700" fill="#00ff41"
+      text-anchor="middle" filter="url(#glowsm)" letter-spacing="4">LET'S BUILD SOMETHING EXTRAORDINARY</text>
+
+    <line x1="120" y1="48" x2="380" y2="48" stroke="#00ff41" stroke-width="0.5" opacity="0.3"/>
+    <line x1="520" y1="48" x2="780" y2="48" stroke="#00ff41" stroke-width="0.5" opacity="0.3"/>
+
+    <text x="450" y="70" class="mono" font-size="11" fill="#39ff1488"
+      text-anchor="middle" letter-spacing="3">Backend-driven  ·  Full-Stack ready  ·  AI-curious  ·  Debugging since forever</text>
+
+    <text x="450" y="95" class="mono" font-size="10" fill="#00ff4155"
+      text-anchor="middle" letter-spacing="2">[ juyelhushen@github ]  connection closed.  session ended.</text>
+
+    <rect x="677" y="84" width="8" height="12" fill="#00ff41" class="cursor-blink"/>
+  </g>
+</svg>
