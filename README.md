@@ -1,3 +1,26 @@
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│  ◈  MODULE 06  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  CONTRIBUTION_GRID     │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juyelhushen/juyelhushen/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juyelhushen/juyelhushen/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution grid snake" src="https://raw.githubusercontent.com/juyelhushen/juyelhushen/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--  [ 07 ]  ENGINEER CORE                                                -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+
+```
+
 <!-- ██████████████████████████████████████████████████████████████████ -->
 <!--        NEON NOIR TERMINAL  //  JUYEL HUSHEN  //  v3.0            -->
 <!-- ██████████████████████████████████████████████████████████████████ -->
@@ -271,48 +294,10 @@ $ _
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--  [ 05 ]  TROPHIES                                                     -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│  ◈  MODULE 05  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ACHIEVEMENT_LOG      │
-└─────────────────────────────────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=juyelhushen&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
-
-</div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════════════ -->
 <!--  [ 06 ]  CONTRIBUTION GRID                                            -->
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│  ◈  MODULE 06  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  CONTRIBUTION_GRID     │
-└─────────────────────────────────────────────────────────────────────────┘
-```
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juyelhushen/juyelhushen/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juyelhushen/juyelhushen/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution grid snake" src="https://raw.githubusercontent.com/juyelhushen/juyelhushen/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-</div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--  [ 07 ]  ENGINEER CORE                                                -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-```
 ┌─────────────────────────────────────────────────────────────────────────┐
 │  ◈  MODULE 07  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ENGINEER_CORE.java      │
 └─────────────────────────────────────────────────────────────────────────┘
