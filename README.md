@@ -19,37 +19,36 @@
 <br/>
 
 
-<!-- ██████████████████████████████████████████████████████████████████ -->
-<!--        NEON NOIR TERMINAL  //  JUYEL HUSHEN  //  v3.0            -->
-<!-- ██████████████████████████████████████████████████████████████████ -->
+<!-- ██████████████████████████████████████████████████████████████████████ -->
+<!--   NEON NOIR TERMINAL  ░░  JUYEL HUSHEN  ░░  v5.0  ░░  README.md    -->
+<!-- ██████████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-<!-- ░░░░░░░░░ CUSTOM SVG BANNER — pure black + grid + glitch ░░░░░░░░ -->
-<!-- Upload banner.svg to your repo root, then this renders perfectly  -->
-<img src="https://raw.githubusercontent.com/juyelhushen/juyelhushen/main/banner.svg" width="100%" alt="Juyel Hushen — Full-Stack Engineer · AI Explorer · Builder" />
+<!-- ══════════════════  ANIMATED HEADER — capsule-render  ══════════════════ -->
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003300,100:00ff41&height=220&section=header&text=JUYEL%20HUSHEN&fontSize=72&fontColor=00ff41&fontAlignY=55&desc=Full-Stack%20Engineer%20%20%C2%B7%20%20AI%20Explorer%20%20%C2%B7%20%20Builder&descSize=18&descAlignY=78&descColor=39ff14&animation=twinkling&stroke=00ff41&strokeWidth=2)
+
+<!-- ══════════════════  ANIMATED TYPING — multi-line boot log  ══════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=15&duration=1600&pause=500&color=00FF41&background=00000000&center=true&vCenter=true&width=860&lines=%5BSYS+BOOT%5D+Initializing+engineer.exe+......+%E2%9C%93+OK;%5BSTACK%5D++Spring+Boot+%2B+React+%2B+AI+%3D+loaded+%E2%9C%93;%5BMODULE%5D+RAG+%7C+LLMs+%7C+Agentic+AI+%3D+active+%E2%9C%93;%5BSTATUS%5D+Building+things+that+survive+production;%5BLOG%5D+++coffee.consumed%2B%2B+%7C+bugs--+%7C+shipped%2B%2B;%5BENV%5D++++trust_logs%3Dtrue+%7C+gut_feelings%3Dfalse;%5BREADY%5D++All+systems+nominal.+Awaiting+next+feature+request." alt="boot sequence" />
 
 <br/>
 
-<!-- SYSTEM BOOT TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=16&duration=2400&pause=700&color=00FF41&background=00000000&center=true&vCenter=true&width=780&lines=%5BSYS+BOOT%5D+Initializing+engineer.exe+.....+%E2%9C%93+OK;%5BSTACK%5D++Spring+Boot+%2B+React+%2B+AI+%3D+loaded+%E2%9C%93;%5BMODULE%5D+RAG+%7C+LLMs+%7C+Agentic+AI+%3D+active+%E2%9C%93;%5BSTATUS%5D+Building+things+that+survive+production;%5BLOG%5D+++coffee.consumed%2B%2B+%3B+bugs--+%3B+shipped%2B%2B;%5BENV%5D++++trust_logs%3Dtrue+%7C+gut_feelings%3Dfalse;%5BREADY%5D++All+systems+nominal.+Awaiting+next+feature+request." alt="Terminal typing" />
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/%5B_LinkedIn_%5D-00ff41?style=for-the-badge&logo=linkedin&logoColor=000000)](https://linkedin.com/in/juyel-hushen-770674170/)&nbsp;
-[![X](https://img.shields.io/badge/%5B_X_Twitter_%5D-00ff41?style=for-the-badge&logo=x&logoColor=000000)](https://x.com/Juyel1881350)&nbsp;
-[![Instagram](https://img.shields.io/badge/%5B_Instagram_%5D-00ff41?style=for-the-badge&logo=instagram&logoColor=000000)](https://instagram.com/iamjuyel/)&nbsp;
-[![YouTube](https://img.shields.io/badge/%5B_YouTube_%5D-00ff41?style=for-the-badge&logo=youtube&logoColor=000000)](https://youtube.com/@jskool)&nbsp;
-[![Gmail](https://img.shields.io/badge/%5B_Email_%5D-00ff41?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:juyelhushen@gmail.com)
+<!-- ══════════════════  SOCIAL BADGES  ══════════════════ -->
+[![LinkedIn](https://img.shields.io/badge/%5B%20LinkedIn%20%5D-00ff41?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=000000)](https://linkedin.com/in/juyel-hushen-770674170/)&nbsp;
+[![X](https://img.shields.io/badge/%5B%20X%20%2F%20Twitter%20%5D-00ff41?style=for-the-badge&logo=x&logoColor=000000&labelColor=000000)](https://x.com/Juyel1881350)&nbsp;
+[![Instagram](https://img.shields.io/badge/%5B%20Instagram%20%5D-00ff41?style=for-the-badge&logo=instagram&logoColor=000000&labelColor=000000)](https://instagram.com/iamjuyel/)&nbsp;
+[![YouTube](https://img.shields.io/badge/%5B%20YouTube%20%5D-00ff41?style=for-the-badge&logo=youtube&logoColor=000000&labelColor=000000)](https://youtube.com/@jskool)&nbsp;
+[![Gmail](https://img.shields.io/badge/%5B%20Email%20%5D-00ff41?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000)](mailto:juyelhushen@gmail.com)
 
 <br/>
 
-![Uptime](https://komarev.com/ghpvc/?username=juyelhushen&label=%E2%97%88+UPTIME+%28VISITORS%29&color=00ff41&style=for-the-badge)
+![Visitors](https://komarev.com/ghpvc/?username=juyelhushen&label=%E2%97%88%20UPTIME%20%28VISITORS%29&color=00ff41&style=for-the-badge)&nbsp;
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&labelColor=000000)&nbsp;
+![Coffee](https://img.shields.io/badge/COFFEE-UNLIMITED-00ff41?style=for-the-badge&logo=buymeacoffee&logoColor=000000&labelColor=000000)
 
 </div>
 
 <br/>
-
 
 
 <!-- ══════════════════════════════════════════════════════════════════════ -->
