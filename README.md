@@ -20,36 +20,61 @@
 
 
 <!-- ██████████████████████████████████████████████████████████████████████ -->
-<!--   NEON NOIR TERMINAL  ░░  JUYEL HUSHEN  ░░  v5.0  ░░  README.md    -->
+<!--   CYAN HACKER TERMINAL  ░░  JUYEL HUSHEN  ░░  v7.0  ░░  README.md  -->
 <!-- ██████████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-<!-- ══════════════════  ANIMATED HEADER — capsule-render  ══════════════════ -->
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003300,100:00ff41&height=220&section=header&text=JUYEL%20HUSHEN&fontSize=72&fontColor=00ff41&fontAlignY=55&desc=Full-Stack%20Engineer%20%20%C2%B7%20%20AI%20Explorer%20%20%C2%B7%20%20Builder&descSize=18&descAlignY=78&descColor=39ff14&animation=twinkling&stroke=00ff41&strokeWidth=2)
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--  HEADER — cylinder type, cyan/dark-navy gradient, fadeIn animation   -->
+<!--  cylinder wraps the gradient around a 3D rounded tube shape          -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
 
-<!-- ══════════════════  ANIMATED TYPING — multi-line boot log  ══════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=15&duration=1600&pause=500&color=00FF41&background=00000000&center=true&vCenter=true&width=860&lines=%5BSYS+BOOT%5D+Initializing+engineer.exe+......+%E2%9C%93+OK;%5BSTACK%5D++Spring+Boot+%2B+React+%2B+AI+%3D+loaded+%E2%9C%93;%5BMODULE%5D+RAG+%7C+LLMs+%7C+Agentic+AI+%3D+active+%E2%9C%93;%5BSTATUS%5D+Building+things+that+survive+production;%5BLOG%5D+++coffee.consumed%2B%2B+%7C+bugs--+%7C+shipped%2B%2B;%5BENV%5D++++trust_logs%3Dtrue+%7C+gut_feelings%3Dfalse;%5BREADY%5D++All+systems+nominal.+Awaiting+next+feature+request." alt="boot sequence" />
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1b2a,25:0a2a3a,55:006b8a,80:00c8d4,100:00eeff&height=220&section=header&text=JUYEL%20HUSHEN&fontSize=65&fontColor=ffffff&fontAlignY=55&desc=Full-Stack%20Engineer%20%E2%80%A2%20AI%20Explorer%20%E2%80%A2%20Builder&descSize=18&descAlignY=78&descColor=ccf9ff&animation=fadeIn&stroke=00eeff&strokeWidth=1)
+
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--  ANIMATED NAME — cyan typing, transparent BG, readable both themes  -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=30&duration=3000&pause=2500&color=00B4CC&background=00000000&center=true&vCenter=true&width=700&lines=JUYEL+HUSHEN" alt="name" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=15&duration=2000&pause=1400&color=0099AA&background=00000000&center=true&vCenter=true&width=760&lines=Full-Stack+Engineer+%E2%80%A2+AI+Explorer+%E2%80%A2+Builder;India+%E2%97%88+IST+%5BUTC%2B5%3A30%5D+%E2%80%94+always+shipping;Spring+Boot+%2B+React+%2B+AI+%3D+%E2%9C%93+loaded;RAG+%7C+LLMs+%7C+Agentic+AI+%3D+%E2%9C%93+active" alt="role" />
 
 <br/>
 
-<!-- ══════════════════  SOCIAL BADGES  ══════════════════ -->
-[![LinkedIn](https://img.shields.io/badge/%5B%20LinkedIn%20%5D-00ff41?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=000000)](https://linkedin.com/in/juyel-hushen-770674170/)&nbsp;
-[![X](https://img.shields.io/badge/%5B%20X%20%2F%20Twitter%20%5D-00ff41?style=for-the-badge&logo=x&logoColor=000000&labelColor=000000)](https://x.com/Juyel1881350)&nbsp;
-[![Instagram](https://img.shields.io/badge/%5B%20Instagram%20%5D-00ff41?style=for-the-badge&logo=instagram&logoColor=000000&labelColor=000000)](https://instagram.com/iamjuyel/)&nbsp;
-[![YouTube](https://img.shields.io/badge/%5B%20YouTube%20%5D-00ff41?style=for-the-badge&logo=youtube&logoColor=000000&labelColor=000000)](https://youtube.com/@jskool)&nbsp;
-[![Gmail](https://img.shields.io/badge/%5B%20Email%20%5D-00ff41?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000)](mailto:juyelhushen@gmail.com)
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--  BOOT LOG — cyan terminal lines, readable on light + dark            -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=14&duration=1400&pause=500&color=007A8A&background=00000000&center=true&vCenter=true&width=860&lines=%5BSYS+BOOT%5D+Initializing+engineer.exe+......+%E2%9C%93+OK;%5BSTACK%5D++Spring+Boot+%2B+React+%2B+AI+%3D+loaded+%E2%9C%93;%5BMODULE%5D+RAG+%7C+LLMs+%7C+Agentic+AI+%3D+active+%E2%9C%93;%5BSTATUS%5D+Building+things+that+survive+production;%5BLOG%5D+++coffee.consumed%2B%2B+%7C+bugs--+%7C+shipped%2B%2B;%5BENV%5D++++trust_logs%3Dtrue+%7C+gut_feelings%3Dfalse;%5BREADY%5D++All+systems+nominal.+Awaiting+next+feature+request." alt="boot sequence" />
+
+<br/><br/>
+
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--  SOCIAL BADGES — cyan/navy, readable on light + dark                 -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-006b8a?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/juyel-hushen-770674170/)&nbsp;
+[![X](https://img.shields.io/badge/X%20%2F%20Twitter-006b8a?style=for-the-badge&logo=x&logoColor=ffffff)](https://x.com/Juyel1881350)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-006b8a?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://instagram.com/iamjuyel/)&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-006b8a?style=for-the-badge&logo=youtube&logoColor=ffffff)](https://youtube.com/@jskool)&nbsp;
+[![Gmail](https://img.shields.io/badge/Email-006b8a?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:juyelhushen@gmail.com)
 
 <br/>
 
-![Visitors](https://komarev.com/ghpvc/?username=juyelhushen&label=%E2%97%88%20UPTIME%20%28VISITORS%29&color=00ff41&style=for-the-badge)&nbsp;
-![Status](https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&labelColor=000000)&nbsp;
-![Coffee](https://img.shields.io/badge/COFFEE-UNLIMITED-00ff41?style=for-the-badge&logo=buymeacoffee&logoColor=000000&labelColor=000000)
+![Visitors](https://komarev.com/ghpvc/?username=juyelhushen&label=UPTIME+%28VISITORS%29&color=006b8a&style=for-the-badge)&nbsp;
+![Status](https://img.shields.io/badge/STATUS-ONLINE-006b8a?style=for-the-badge)&nbsp;
+![Coffee](https://img.shields.io/badge/COFFEE-UNLIMITED-006b8a?style=for-the-badge&logo=buymeacoffee&logoColor=ffffff)
 
 </div>
 
 <br/>
 
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--  [ 01 ]  IDENTITY MATRIX                                              -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+
+```
 
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 <!--  [ 01 ]  IDENTITY MATRIX                                              -->
@@ -369,15 +394,22 @@ juyel@dev:~$ █
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--  CUSTOM SVG FOOTER                                                     -->
+<!--  ANIMATED FOOTER                                                      -->
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/juyelhushen/juyelhushen/main/footer.svg" width="100%" alt="footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=2500&pause=1000&color=007A8A&background=00000000&center=true&vCenter=true&width=680&lines=%E2%97%88+Thanks+for+visiting.+If+something+here+sparked+an+idea+%E2%80%94+let%27s+build.;The+best+systems+are+yet+to+be+shipped.+%E2%97%88" alt="footer message" />
+
+<br/><br/>
+
+[![☕ Support My Work](https://img.shields.io/badge/SUPPORT%20MY%20WORK-006b8a?style=for-the-badge&logo=paypal&logoColor=ffffff)](https://paypal.me/JuyelHushen)
+&nbsp;
+[![⭐ Star Repos](https://img.shields.io/badge/STAR%20MY%20REPOS-006b8a?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/juyelhushen?tab=repositories)
 
 <br/>
 
-[![☕ Support My Work](https://img.shields.io/badge/%5B_SUPPORT_MY_WORK_%5D-00ff41?style=for-the-badge&logo=paypal&logoColor=000000)](https://paypal.me/JuyelHushen)
+<!-- FOOTER — egg type, cyan/navy gradient, bubbles up from bottom -->
+![footer](https://capsule-render.vercel.app/api?type=egg&color=0:0d1b2a,30:0a2a3a,65:006b8a,85:00c8d4,100:00eeff&height=160&section=footer&text=juyel%40dev%3A~%24%20_&fontSize=18&fontColor=ffffff&fontAlignY=60&animation=fadeIn)
 
 </div>
