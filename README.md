@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
-<!--  LIVE FEED — contribution snake, kept exactly as-is, top of file   -->
+<!--  LIVE FEED — contribution snake, moved to the very top             -->
+<!--  (UNCHANGED — kept exactly as-is per request)                       -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
 <sub>👀 watch it eat the year</sub>
@@ -15,36 +16,30 @@
 <br/><br/>
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
-<!--  HEADER — new template: cyberpunk wave sweep, cyan/violet/magenta  -->
+<!--  HEADER — new template: matrix / cyberpunk terminal theme          -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1035,50:3b1e6d,75:7b2ff7,100:00e5ff&height=230&section=header&text=JUYEL%20HUSHEN&fontSize=56&fontColor=e8faff&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%86%92%20AI%20Agent%20Engineer&descSize=17&descAlignY=62&descColor=00e5ff&animation=fadeIn&stroke=7b2ff7&strokeWidth=1)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0f2027,50:134e2e,75:1f9e5c,100:39ff14&height=230&section=header&text=JUYEL%20HUSHEN&fontSize=56&fontColor=e8ffe8&fontAlignY=38&desc=Backend%20Engineer%20%E2%9A%A1%20Compiling%20into%20an%20AI%20Agent%20Engineer&descSize=16&descAlignY=60&descColor=39ff14&animation=twinkling&stroke=39ff14&strokeWidth=1)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="380">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1400&color=00E5FF&background=00000000&center=true&vCenter=true&width=750&lines=%3C+Software+Engineer+II+%40+Apexon+%2F%2F+GS+CALM+Platform+%3E;%3C+Java+17+%2B+Spring+Boot+%2B+Kafka+%2B+AWS+%3E;%3C+Now+compiling%3A+Python+%2B+LangChain+%2B+RAG+%3E;%3C+800%2B+LeetCode+%7C+India+%28IST%29+%3E" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1400&color=7B2FF7&background=00000000&center=true&vCenter=true&width=750&lines=%3C+Software+Engineer+II+%40+Apexon+%2F%2F+GS+CALM+Platform+%3E;%3C+Java+17+%2B+Spring+Boot+%2B+Kafka+%2B+AWS+%3E;%3C+Now+compiling%3A+Python+%2B+LangChain+%2B+RAG+%3E;%3C+800%2B+LeetCode+%7C+India+%28IST%29+%3E" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1400&color=00E5FF&background=00000000&center=true&vCenter=true&width=750&lines=%3C+Software+Engineer+II+%40+Apexon+%2F%2F+GS+CALM+Platform+%3E;%3C+Java+17+%2B+Spring+Boot+%2B+Kafka+%2B+AWS+%3E;%3C+Now+compiling%3A+Python+%2B+LangChain+%2B+RAG+%3E;%3C+800%2B+LeetCode+%7C+India+%28IST%29+%3E" alt="tagline" />
-</picture>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1200&color=39FF14&background=00000000&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Juyel+%F0%9F%91%8B;sudo+make+me+a+sandwich;git+commit+-m+%22it+works+on+my+machine%22" alt="typing header" />
 
 <br/>
 
-> `WARNING: contains excessive coffee, semicolons, and one unresolved merge conflict from 2023`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2200&pause=900&color=8CFFAF&background=00000000&center=true&vCenter=true&width=950&lines=%3E+whoami+%E2%80%94+Software+Engineer+II+%40+Apexon+(Goldman+Sachs+CALM+platform);%3E+status+%E2%80%94+Java%2FSpring+in+prod+by+day%2C+LangChain+%2B+RAG+by+night;%3E+location+%E2%80%94+India+%E2%97%88+IST+%5BUTC%2B5%3A30%5D;%3E+leetcode+%E2%80%94+800%2B+problems+solved+and+counting;%3E+mood+%E2%80%94+99+little+bugs+in+the+code%2C+99+little+bugs...;%3E+takeAnotherOneDown()+%E2%86%92+127+little+bugs+in+the+code" alt="status ticker" />
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-134e2e?style=for-the-badge&logo=linkedin&logoColor=39ff14)](https://linkedin.com/in/juyel-hushen-770674170/)&nbsp;
+[![X](https://img.shields.io/badge/X%20%2F%20Twitter-134e2e?style=for-the-badge&logo=x&logoColor=39ff14)](https://x.com/Juyel1881350)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-134e2e?style=for-the-badge&logo=instagram&logoColor=39ff14)](https://instagram.com/iamjuyel/)&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-134e2e?style=for-the-badge&logo=youtube&logoColor=39ff14)](https://youtube.com/@jskool)&nbsp;
+[![Gmail](https://img.shields.io/badge/Email-134e2e?style=for-the-badge&logo=gmail&logoColor=39ff14)](mailto:juyelhushen@gmail.com)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1035?style=for-the-badge&logo=linkedin&logoColor=00e5ff)](https://linkedin.com/in/juyel-hushen-770674170/)&nbsp;
-[![X](https://img.shields.io/badge/X%20%2F%20Twitter-1a1035?style=for-the-badge&logo=x&logoColor=00e5ff)](https://x.com/Juyel1881350)&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-1a1035?style=for-the-badge&logo=instagram&logoColor=00e5ff)](https://instagram.com/iamjuyel/)&nbsp;
-[![YouTube](https://img.shields.io/badge/YouTube-1a1035?style=for-the-badge&logo=youtube&logoColor=00e5ff)](https://youtube.com/@jskool)&nbsp;
-[![Gmail](https://img.shields.io/badge/Email-1a1035?style=for-the-badge&logo=gmail&logoColor=00e5ff)](mailto:juyelhushen@gmail.com)
-
-<br/>
-
-![Visitors](https://komarev.com/ghpvc/?username=juyelhushen&label=VISITORS&color=7b2ff7&style=for-the-badge)&nbsp;
-![Status](https://img.shields.io/badge/STATUS-ONLINE-7b2ff7?style=for-the-badge)&nbsp;
-![Coffee](https://img.shields.io/badge/COFFEE-CRITICAL_LOW-7b2ff7?style=for-the-badge&logo=buymeacoffee&logoColor=00e5ff)
+![Visitors](https://komarev.com/ghpvc/?username=juyelhushen&label=VISITORS&color=134e2e&style=for-the-badge)&nbsp;
+![Status](https://img.shields.io/badge/STATUS-COMPILING...-134e2e?style=for-the-badge)&nbsp;
+![Coffee](https://img.shields.io/badge/COFFEE-CRITICALLY_LOW-134e2e?style=for-the-badge&logo=buymeacoffee&logoColor=39ff14)
 
 </div>
 
@@ -52,54 +47,72 @@
 
 <div align="center">
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:3b1e6d,100:00e5ff&height=45&section=header&text=AGENT%20TRACE&fontSize=15&fontColor=e8faff&animation=fadeIn&stroke=00e5ff&strokeWidth=0)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:134e2e,100:39ff14&height=45&section=header&text=A%20DAY%20IN%20THE%20LIFE&fontSize=15&fontColor=e8ffe8&animation=fadeIn&stroke=39ff14&strokeWidth=0)
 
-<sub><i>(what happens when you ask an agent who I am — live)</i></sub>
+<br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2600&pause=900&color=00E5FF&background=00000000&center=true&vCenter=true&width=950&lines=%3E+Entering+new+AgentExecutor+chain...;Thought%3A+resolving+identity+for+juyelhushen;Action%3A+get_profile%28handle%3Djuyelhushen%29;Observation%3A+role%3DSWE-II+%40+Apexon+%7C+stack%3DJava%2BSpring%2BKafka%2BAWS;Observation%3A+active_research%3DPython%2BLangChain%2BRAG%2BAgentic-AI;Thought%3A+production-grade+backend%2C+now+extending+into+AI-native+systems;Final+Answer%3A+builds+systems+that+survive+real+traffic+%E2%80%94+and+teaches+them+to+reason;%3E+Finished+chain." />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2600&pause=900&color=7B2FF7&background=00000000&center=true&vCenter=true&width=950&lines=%3E+Entering+new+AgentExecutor+chain...;Thought%3A+resolving+identity+for+juyelhushen;Action%3A+get_profile%28handle%3Djuyelhushen%29;Observation%3A+role%3DSWE-II+%40+Apexon+%7C+stack%3DJava%2BSpring%2BKafka%2BAWS;Observation%3A+active_research%3DPython%2BLangChain%2BRAG%2BAgentic-AI;Thought%3A+production-grade+backend%2C+now+extending+into+AI-native+systems;Final+Answer%3A+builds+systems+that+survive+real+traffic+%E2%80%94+and+teaches+them+to+reason;%3E+Finished+chain." />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2600&pause=900&color=00E5FF&background=00000000&center=true&vCenter=true&width=950&lines=%3E+Entering+new+AgentExecutor+chain...;Thought%3A+resolving+identity+for+juyelhushen;Action%3A+get_profile%28handle%3Djuyelhushen%29;Observation%3A+role%3DSWE-II+%40+Apexon+%7C+stack%3DJava%2BSpring%2BKafka%2BAWS;Observation%3A+active_research%3DPython%2BLangChain%2BRAG%2BAgentic-AI;Thought%3A+production-grade+backend%2C+now+extending+into+AI-native+systems;Final+Answer%3A+builds+systems+that+survive+real+traffic+%E2%80%94+and+teaches+them+to+reason;%3E+Finished+chain." alt="live agent trace" />
-</picture>
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d8-4d80-b3ce-db349a3c3b7d.gif" width="130"/><br/>
+<sub><b>opens IDE</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="130"/><br/>
+<sub><b>writes 3 lines of code</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/221857984-c02be273-8f0c-4a41-8dd8-4c1ba7bec5b2.gif" width="130"/><br/>
+<sub><b>stares at stack trace</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="130"/><br/>
+<sub><b>ships it anyway 🚀</b></sub>
+</td>
+</tr>
+</table>
+
+<sub><i>repeat daily. commit history does not reflect emotional damage.</i></sub>
 
 </div>
 
 <br/>
 
-```text
-> Entering new AgentExecutor chain...
+<div align="center">
 
-Thought: Need to resolve identity for handle "juyelhushen" before responding.
-Action: get_profile
-Action Input: {"handle": "juyelhushen"}
-Observation: {
-  "role": "Software Engineer II, Apexon",
-  "current_project": "Client Lifecycle Management Platform (Goldman Sachs)",
-  "production_stack": ["Java 17", "Spring Boot", "Spring Security",
-                        "Kafka", "PostgreSQL", "Redis", "AWS"],
-  "active_research": ["Python", "LangChain", "RAG pipelines",
-                       "LLM APIs", "Agentic AI"],
-  "track_record": "800+ LeetCode problems solved",
-  "location": "India (IST, UTC+5:30)"
-}
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:134e2e,100:39ff14&height=45&section=header&text=TERMINAL%20SESSION&fontSize=15&fontColor=e8ffe8&animation=fadeIn&stroke=39ff14&strokeWidth=0)
 
-Thought: This is a backend engineer with a production-grade Java/Spring
-foundation, now extending the same rigor into AI-native systems. He
-treats AI like just another system to design well, not a demo to ship
-and forget.
-Action: none — sufficient context gathered
+<br/>
 
-Final Answer: A full-stack engineer who builds things that survive
-contact with real traffic — and is teaching the same systems to reason.
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
 
-> Finished chain.
+</div>
+
+```bash
+juyel@dev:~$ cat about_me.txt
+Software Engineer II @ Apexon, building the CALM (Client Lifecycle
+Management) platform for Goldman Sachs. Java/Spring in production,
+Python + LangChain + RAG pipelines after hours. 800+ LeetCode solved.
+Based in Bengaluru, India (IST).
+
+juyel@dev:~$ ./deploy.sh --env production
+[INFO]  running tests...................... 412 passed, 0 failed
+[INFO]  building image..................... done
+[INFO]  pushing to registry................ done
+[INFO]  rolling out.........................done
+[SUCCESS] deployment complete. no rollback needed (this time).
+
+juyel@dev:~$ echo "coffee_level"
+☕☕☕░░░░░░░  30% — send help
+
+juyel@dev:~$ _
 ```
 
 <br/>
 
 <div align="center">
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:3b1e6d,100:00e5ff&height=45&section=header&text=STACK%20MANIFEST&fontSize=15&fontColor=e8faff&animation=fadeIn&stroke=00e5ff&strokeWidth=0)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:134e2e,100:39ff14&height=45&section=header&text=STACK%20MANIFEST&fontSize=15&fontColor=e8ffe8&animation=fadeIn&stroke=39ff14&strokeWidth=0)
 
 </div>
 
@@ -109,40 +122,40 @@ contact with real traffic — and is teaching the same systems to reason.
 
 **`PRODUCTION // day job`**
 
-![Java](https://img.shields.io/badge/Java-1a1035?style=flat-square&logo=openjdk&logoColor=00e5ff)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-1a1035?style=flat-square&logo=springboot&logoColor=00e5ff)
-![Spring Security](https://img.shields.io/badge/Spring_Security-1a1035?style=flat-square&logo=springsecurity&logoColor=00e5ff)
-![Kafka](https://img.shields.io/badge/Kafka-1a1035?style=flat-square&logo=apachekafka&logoColor=00e5ff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1035?style=flat-square&logo=postgresql&logoColor=00e5ff)
-![Redis](https://img.shields.io/badge/Redis-1a1035?style=flat-square&logo=redis&logoColor=00e5ff)
-![AWS](https://img.shields.io/badge/AWS-1a1035?style=flat-square&logo=amazonwebservices&logoColor=00e5ff)
-![Docker](https://img.shields.io/badge/Docker-1a1035?style=flat-square&logo=docker&logoColor=00e5ff)
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=39ff14)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&logo=springboot&logoColor=39ff14)
+![Spring Security](https://img.shields.io/badge/Spring_Security-0d1117?style=flat-square&logo=springsecurity&logoColor=39ff14)
+![Kafka](https://img.shields.io/badge/Kafka-0d1117?style=flat-square&logo=apachekafka&logoColor=39ff14)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=39ff14)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=39ff14)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=39ff14)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=39ff14)
 
 **`FRONTEND // full-stack reach`**
 
-![React](https://img.shields.io/badge/React-1a1035?style=flat-square&logo=react&logoColor=00e5ff)
-![Angular](https://img.shields.io/badge/Angular-1a1035?style=flat-square&logo=angular&logoColor=00e5ff)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a1035?style=flat-square&logo=typescript&logoColor=00e5ff)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=39ff14)
+![Angular](https://img.shields.io/badge/Angular-0d1117?style=flat-square&logo=angular&logoColor=39ff14)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=39ff14)
 
 </td>
 <td valign="top" width="50%">
 
 **`AI R&D // night stack`**
 
-![Python](https://img.shields.io/badge/Python-1a1035?style=flat-square&logo=python&logoColor=00e5ff)
-![LangChain](https://img.shields.io/badge/LangChain-1a1035?style=flat-square&logo=langchain&logoColor=00e5ff)
-![OpenAI](https://img.shields.io/badge/OpenAI-1a1035?style=flat-square&logo=openai&logoColor=00e5ff)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-1a1035?style=flat-square&logo=huggingface&logoColor=00e5ff)
-![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-7b2ff7?style=flat-square)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-7b2ff7?style=flat-square)
-![Vector DBs](https://img.shields.io/badge/Vector_DBs-7b2ff7?style=flat-square)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=39ff14)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=39ff14)
+![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=39ff14)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=flat-square&logo=huggingface&logoColor=39ff14)
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-134e2e?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-134e2e?style=flat-square)
+![Vector DBs](https://img.shields.io/badge/Vector_DBs-134e2e?style=flat-square)
 
 **`TOOLING`**
 
-![Git](https://img.shields.io/badge/Git-1a1035?style=flat-square&logo=git&logoColor=00e5ff)
-![GitHub Copilot](https://img.shields.io/badge/Copilot-1a1035?style=flat-square&logo=githubcopilot&logoColor=00e5ff)
-![Postman](https://img.shields.io/badge/Postman-1a1035?style=flat-square&logo=postman&logoColor=00e5ff)
-![Linux](https://img.shields.io/badge/Linux-1a1035?style=flat-square&logo=linux&logoColor=00e5ff)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=39ff14)
+![GitHub Copilot](https://img.shields.io/badge/Copilot-0d1117?style=flat-square&logo=githubcopilot&logoColor=39ff14)
+![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=39ff14)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=39ff14)
 
 </td>
 </tr>
@@ -152,52 +165,7 @@ contact with real traffic — and is teaching the same systems to reason.
 
 <div align="center">
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:3b1e6d,100:00e5ff&height=45&section=header&text=DEBUGGING%20LOG&fontSize=15&fontColor=e8faff&animation=fadeIn&stroke=00e5ff&strokeWidth=0)
-
-<sub><i>(a brief, honest look at the emotional lifecycle of a bug)</i></sub>
-
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="500">
-
-<br/><br/>
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-**09:00**
-"It'll take 5 mins"
-
-</td>
-<td align="center" width="25%">
-
-**11:30**
-`// TODO: fix this properly`
-
-</td>
-<td align="center" width="25%">
-
-**14:00**
-Blames the framework
-
-</td>
-<td align="center" width="25%">
-
-**16:45**
-It was a semicolon
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:3b1e6d,100:00e5ff&height=45&section=header&text=TRAINING%20CHECKPOINT&fontSize=15&fontColor=e8faff&animation=fadeIn&stroke=00e5ff&strokeWidth=0)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:134e2e,100:39ff14&height=45&section=header&text=TRAINING%20CHECKPOINT&fontSize=15&fontColor=e8ffe8&animation=fadeIn&stroke=39ff14&strokeWidth=0)
 
 </div>
 
@@ -207,48 +175,48 @@ $ python train.py --resume-from-checkpoint --user juyelhushen
 [checkpoint] loading production_systems.ckpt ... done
 [checkpoint] loading ai_engineering.ckpt    ... done
 
-┌─ CONVERGED — production-ready ───────────────────────────┐
+┌─ CONVERGED — production-ready ────────────────────────────┐
 │ Spring Boot & Microservices      [██████████]  epoch 50/50 │
 │ REST API & System Design         [██████████]  epoch 50/50 │
 │ Full-Stack (Java + React/Ang.)   [██████████]  epoch 50/50 │
 │ AWS / Docker / CI-CD             [██████████]  epoch 50/50 │
-├─ STILL TRAINING — active loss decrease ───────────────────┤
+├─ STILL TRAINING — active loss decrease ────────────────────┤
 │ RAG & Retrieval Systems          [██████░░░░]  epoch 30/50 │
 │ Agentic AI / Tool-Use Patterns   [█████░░░░░]  epoch 25/50 │
 │ LLM-Backed Backend Integration   [████░░░░░░]  epoch 20/50 │
-├─ NOT YET INITIALIZED ──────────────────────────────────────┤
+├─ NOT YET INITIALIZED ───────────────────────────────────────┤
 │ AI-Native Full-Stack at Scale    [░░░░░░░░░░]  epoch  0/50 │
 └──────────────────────────────────────────────────────────────┘
 
+[WARN] caffeine levels below recommended threshold
 [INFO] no overfitting detected — keep shipping.
-[WARN] caffeine levels critically low. see gif above.
 ```
 
 <br/>
 
 <div align="center">
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:3b1e6d,100:00e5ff&height=45&section=header&text=GITHUB%20METRICS&fontSize=15&fontColor=e8faff&animation=fadeIn&stroke=00e5ff&strokeWidth=0)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:134e2e,100:39ff14&height=45&section=header&text=GITHUB%20METRICS&fontSize=15&fontColor=e8ffe8&animation=fadeIn&stroke=39ff14&strokeWidth=0)
 
 <br/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=juyelhushen&show_icons=true&bg_color=0d1117&title_color=00e5ff&text_color=e8faff&icon_color=7b2ff7&border_color=3b1e6d&hide_border=false&border_radius=6" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=juyelhushen&show_icons=true&bg_color=0d1117&title_color=39ff14&text_color=e8ffe8&icon_color=1f9e5c&border_color=134e2e&hide_border=false&border_radius=6" />
 &nbsp;
-<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juyelhushen&theme=tokyonight" />
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juyelhushen&theme=github_dark" />
 &nbsp;
-<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=juyelhushen&theme=tokyonight" />
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=juyelhushen&theme=github_dark" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=juyelhushen&hide_border=true&background=0d1117&ring=00e5ff&fire=7b2ff7&currStreakLabel=00e5ff&sideNums=e8faff&sideLabels=7b2ff7&dates=6a6a8a&border_radius=6" width="68%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=juyelhushen&hide_border=true&background=0d1117&ring=39ff14&fire=1f9e5c&currStreakLabel=39ff14&sideNums=e8ffe8&sideLabels=1f9e5c&dates=6ea87f&border_radius=6" width="68%" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juyelhushen&theme=tokyonight" width="96%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juyelhushen&theme=github_dark" width="96%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=juyelhushen&bg_color=0d1117&color=00e5ff&line=7b2ff7&point=e8faff&area=true&area_color=3b1e6d&hide_border=true&radius=6" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=juyelhushen&bg_color=0d1117&color=39ff14&line=1f9e5c&point=e8ffe8&area=true&area_color=134e2e&hide_border=true&radius=6" width="100%" />
 
 </div>
 
@@ -256,17 +224,26 @@ $ python train.py --resume-from-checkpoint --user juyelhushen
 
 <div align="center">
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:3b1e6d,100:00e5ff&height=45&section=header&text=SNAKE%20BREAK&fontSize=15&fontColor=e8faff&animation=fadeIn&stroke=00e5ff&strokeWidth=0)
-
-<sub><i>(a short intermission, because the coding gif deserves a bigger stage)</i></sub>
-
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="120">
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:134e2e,100:39ff14&height=45&section=header&text=THE%20FINE%20PRINT&fontSize=15&fontColor=e8ffe8&animation=fadeIn&stroke=39ff14&strokeWidth=0)
 
 <br/>
 
-<sub>waving at every recruiter who scrolls this far 👋</sub>
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="120"/><br/>
+<sub><b>"works on my machine"</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/238200622-3f5aeafa-04ee-4f31-9c07-6dbd8d208d13.gif" width="120"/><br/>
+<sub><b>refactoring at 2am</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/213910842-5386f042-2f95-4a15-a7d5-9e2acf3d0a4d.gif" width="120"/><br/>
+<sub><b>green checkmarks 🟢</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -274,20 +251,16 @@ $ python train.py --resume-from-checkpoint --user juyelhushen
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2500&pause=1000&color=00E5FF&background=00000000&center=true&vCenter=true&width=760&lines=%E2%97%88+Thanks+for+stopping+by.+If+something+here+sparked+an+idea+%E2%80%94+let%27s+build.;Still+training.+Still+shipping.+%E2%97%88;git+push+--force+%28just+kidding%2C+I+know+better%29;Powered+by+coffee%2C+curiosity%2C+and+one+open+tab+of+Stack+Overflow." />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2500&pause=1000&color=7B2FF7&background=00000000&center=true&vCenter=true&width=760&lines=%E2%97%88+Thanks+for+stopping+by.+If+something+here+sparked+an+idea+%E2%80%94+let%27s+build.;Still+training.+Still+shipping.+%E2%97%88;git+push+--force+%28just+kidding%2C+I+know+better%29;Powered+by+coffee%2C+curiosity%2C+and+one+open+tab+of+Stack+Overflow." />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2500&pause=1000&color=00E5FF&background=00000000&center=true&vCenter=true&width=760&lines=%E2%97%88+Thanks+for+stopping+by.+If+something+here+sparked+an+idea+%E2%80%94+let%27s+build.;Still+training.+Still+shipping.+%E2%97%88;git+push+--force+%28just+kidding%2C+I+know+better%29;Powered+by+coffee%2C+curiosity%2C+and+one+open+tab+of+Stack+Overflow." alt="footer message" />
-</picture>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2500&pause=1000&color=1F9E5C&background=00000000&center=true&vCenter=true&width=780&lines=%E2%97%88+Thanks+for+stopping+by.+Fork+something%2C+star+something%2C+say+hi.;Still+training.+Still+shipping.+Still+out+of+coffee.+%E2%97%88;404%3A+sleep+schedule+not+found." alt="footer message" />
 
 <br/><br/>
 
-[![Support My Work](https://img.shields.io/badge/SUPPORT%20MY%20WORK-7b2ff7?style=for-the-badge&logo=paypal&logoColor=00e5ff)](https://paypal.me/JuyelHushen)
+[![Support My Work](https://img.shields.io/badge/SUPPORT%20MY%20WORK-134e2e?style=for-the-badge&logo=paypal&logoColor=39ff14)](https://paypal.me/JuyelHushen)
 &nbsp;
-[![Star My Repos](https://img.shields.io/badge/STAR%20MY%20REPOS-7b2ff7?style=for-the-badge&logo=github&logoColor=00e5ff)](https://github.com/juyelhushen?tab=repositories)
+[![Star My Repos](https://img.shields.io/badge/STAR%20MY%20REPOS-134e2e?style=for-the-badge&logo=github&logoColor=39ff14)](https://github.com/juyelhushen?tab=repositories)
 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,25:7b2ff7,50:3b1e6d,75:1a1035,100:0d1117&height=150&section=footer&text=juyel%40dev%3A~%24%20_&fontSize=16&fontColor=e8faff&fontAlignY=75&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:39ff14,25:1f9e5c,50:134e2e,75:0f2027,100:0d1117&height=150&section=footer&text=juyel%40dev%3A~%24%20_&fontSize=16&fontColor=e8ffe8&fontAlignY=70&animation=fadeIn)
 
 </div>
