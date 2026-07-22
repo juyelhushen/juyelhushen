@@ -19,7 +19,7 @@
 <!--  HEADER — new template: matrix / cyberpunk terminal theme          -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0f2027,50:134e2e,75:1f9e5c,100:39ff14&height=230&section=header&text=JUYEL%20HUSHEN&fontSize=56&fontColor=e8ffe8&fontAlignY=38&desc=Backend%20Engineer%20%E2%9A%A1%20Compiling%20into%20an%20AI%20Agent%20Engineer&descSize=16&descAlignY=60&descColor=39ff14&animation=twinkling&stroke=39ff14&strokeWidth=1)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0f2027,50:134e2e,75:1f9e5c,100:39ff14&height=230&section=header&text=JUYEL%20HUSHEN&fontSize=56&fontColor=e8ffe8&fontAlignY=38&desc=Fullstack%20Engineer%20%E2%9A%A1%20Compiling%20into%20an%20AI%20Agent%20Engineer&descSize=16&descAlignY=60&descColor=39ff14&animation=twinkling&stroke=39ff14&strokeWidth=1)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1200&color=39FF14&background=00000000&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Juyel+%F0%9F%91%8B;sudo+make+me+a+sandwich;git+commit+-m+%22it+works+on+my+machine%22" alt="typing header" />
 
