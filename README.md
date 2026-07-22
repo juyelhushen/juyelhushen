@@ -116,11 +116,19 @@ juyel@dev:~$ _
 
 </div>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="80">
+<br/>
+<sub><i>my brain, deciding which framework to blame for the bug</i></sub>
+</div>
+
+<br/>
+
 <table>
 <tr>
 <td valign="top" width="50%">
 
-**`PRODUCTION // day job`**
+**`PRODUCTION // the "it's fine, it's fine" stack`**
 
 ![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=39ff14)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&logo=springboot&logoColor=39ff14)
@@ -131,16 +139,23 @@ juyel@dev:~$ _
 ![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=39ff14)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=39ff14)
 
-**`FRONTEND // full-stack reach`**
+<sub>🔥 <b>Java</b> — 20 years old, still gets carried by a 20-year-old</sub><br/>
+<sub>🌱 <b>Spring Boot</b> — because writing raw servlets is a crime against humanity</sub><br/>
+<sub>🐘 <b>Kafka</b> — messages so durable they'll outlive the company</sub><br/>
+<sub>🐳 <b>Docker</b> — "works in the container" is the new "works on my machine"</sub>
+
+**`FRONTEND // full-stack reach (allegedly)`**
 
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=39ff14)
 ![Angular](https://img.shields.io/badge/Angular-0d1117?style=flat-square&logo=angular&logoColor=39ff14)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=39ff14)
 
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="150">
+
 </td>
 <td valign="top" width="50%">
 
-**`AI R&D // night stack`**
+**`AI R&D // 3am "just one more prompt" stack`**
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=39ff14)
 ![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=39ff14)
@@ -150,16 +165,27 @@ juyel@dev:~$ _
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-134e2e?style=flat-square)
 ![Vector DBs](https://img.shields.io/badge/Vector_DBs-134e2e?style=flat-square)
 
-**`TOOLING`**
+<sub>🐍 <b>Python</b> — indentation errors as a personality trait</sub><br/>
+<sub>🦜 <b>LangChain</b> — 6 abstractions to call one API</sub><br/>
+<sub>🤖 <b>Agentic AI</b> — told the agent to be careful, it deleted prod</sub><br/>
+<sub>🧠 <b>Vector DBs</b> — turning "trust me bro" into cosine similarity</sub>
+
+**`TOOLING // the real MVPs`**
 
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=39ff14)
 ![GitHub Copilot](https://img.shields.io/badge/Copilot-0d1117?style=flat-square&logo=githubcopilot&logoColor=39ff14)
 ![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=39ff14)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=39ff14)
 
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="150">
+
 </td>
 </tr>
 </table>
+
+<div align="center">
+<sub><i>git commit -m "fixed bug" → git commit -m "actually fixed bug" → git commit -m "please work" → git commit -m "I hate everything"</i></sub>
+</div>
 
 <br/>
 
@@ -169,28 +195,45 @@ juyel@dev:~$ _
 
 </div>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/213910843-1d6081ba-52ac-4993-9c17-b9ba9c2c9d61.gif" width="450">
+</div>
+
 ```text
-$ python train.py --resume-from-checkpoint --user juyelhushen
+$ python train.py --resume-from-checkpoint --user juyelhushen --gpu my_last_nerve
 
-[checkpoint] loading production_systems.ckpt ... done
-[checkpoint] loading ai_engineering.ckpt    ... done
+[checkpoint] loading production_systems.ckpt ......... done
+[checkpoint] loading ai_engineering.ckpt ............. done
+[checkpoint] loading will_to_debug_at_2am.ckpt ....... NaN (unrecoverable)
 
-┌─ CONVERGED — production-ready ────────────────────────────┐
+┌─ CONVERGED — production-ready, ego included ───────────────┐
 │ Spring Boot & Microservices      [██████████]  epoch 50/50 │
 │ REST API & System Design         [██████████]  epoch 50/50 │
 │ Full-Stack (Java + React/Ang.)   [██████████]  epoch 50/50 │
 │ AWS / Docker / CI-CD             [██████████]  epoch 50/50 │
-├─ STILL TRAINING — active loss decrease ────────────────────┤
+│ Explaining bugs as "features"    [██████████]  epoch 50/50 │
+├─ STILL TRAINING — loss going down, patience going up ───────┤
 │ RAG & Retrieval Systems          [██████░░░░]  epoch 30/50 │
 │ Agentic AI / Tool-Use Patterns   [█████░░░░░]  epoch 25/50 │
 │ LLM-Backed Backend Integration   [████░░░░░░]  epoch 20/50 │
-├─ NOT YET INITIALIZED ───────────────────────────────────────┤
+│ Sleeping Before Midnight         [██░░░░░░░░]  epoch  9/50 │
+├─ NOT YET INITIALIZED — divide by zero ──────────────────────┤
 │ AI-Native Full-Stack at Scale    [░░░░░░░░░░]  epoch  0/50 │
+│ Reading Error Message Fully      [░░░░░░░░░░]  epoch  0/50 │
 └──────────────────────────────────────────────────────────────┘
 
-[WARN] caffeine levels below recommended threshold
-[INFO] no overfitting detected — keep shipping.
+[WARN]  caffeine levels below recommended threshold
+[WARN]  model occasionally hallucinates that Stack Overflow answer will work
+[ERROR] rubber duck stopped responding to questions
+[INFO]  no overfitting detected on weekdays. weekends: unverified.
+[INFO]  training will continue until morale improves.
 ```
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="140">
+<br/>
+<sub><i>current validation strategy: it compiled, ship it</i></sub>
+</div>
 
 <br/>
 
