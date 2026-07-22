@@ -53,20 +53,22 @@
 
 <table>
 <tr>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d8-4d80-b3ce-db349a3c3b7d.gif" width="130"/><br/>
+<td align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d8-4d80-b3ce-db349a3c3b7d.gif" width="260"/><br/>
 <sub><b>opens IDE</b></sub>
 </td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="130"/><br/>
+<td align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="260"/><br/>
 <sub><b>writes 3 lines of code</b></sub>
 </td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/221857984-c02be273-8f0c-4a41-8dd8-4c1ba7bec5b2.gif" width="130"/><br/>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/221857984-c02be273-8f0c-4a41-8dd8-4c1ba7bec5b2.gif" width="260"/><br/>
 <sub><b>stares at stack trace</b></sub>
 </td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="130"/><br/>
+<td align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="260"/><br/>
 <sub><b>ships it anyway 🚀</b></sub>
 </td>
 </tr>
@@ -84,7 +86,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="620">
 
 </div>
 
@@ -117,18 +119,14 @@ juyel@dev:~$ _
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="180">
 <br/>
 <sub><i>my brain, deciding which framework to blame for the bug</i></sub>
 </div>
 
 <br/>
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**`PRODUCTION // the "it's fine, it's fine" stack`**
+### 🔥 `PRODUCTION // the "it's fine, it's fine" stack`
 
 ![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=39ff14)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d1117?style=flat-square&logo=springboot&logoColor=39ff14)
@@ -139,23 +137,23 @@ juyel@dev:~$ _
 ![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=39ff14)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=39ff14)
 
-<sub>🔥 <b>Java</b> — 20 years old, still gets carried by a 20-year-old</sub><br/>
-<sub>🌱 <b>Spring Boot</b> — because writing raw servlets is a crime against humanity</sub><br/>
-<sub>🐘 <b>Kafka</b> — messages so durable they'll outlive the company</sub><br/>
-<sub>🐳 <b>Docker</b> — "works in the container" is the new "works on my machine"</sub>
+<sub>🔥 <b>Java</b> — 20 years old, still gets carried by a 20-year-old &nbsp;|&nbsp; 🌱 <b>Spring Boot</b> — because raw servlets are a crime against humanity &nbsp;|&nbsp; 🐘 <b>Kafka</b> — messages so durable they'll outlive the company &nbsp;|&nbsp; 🐳 <b>Docker</b> — "works in the container" is the new "works on my machine"</sub>
 
-**`FRONTEND // full-stack reach (allegedly)`**
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300">
+
+<br/><br/>
+
+### 🎨 `FRONTEND // full-stack reach (allegedly)`
 
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=39ff14)
 ![Angular](https://img.shields.io/badge/Angular-0d1117?style=flat-square&logo=angular&logoColor=39ff14)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=39ff14)
 
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="150">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="300">
 
-</td>
-<td valign="top" width="50%">
+<br/><br/>
 
-**`AI R&D // 3am "just one more prompt" stack`**
+### 🤖 `AI R&D // 3am "just one more prompt" stack`
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=39ff14)
 ![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=39ff14)
@@ -165,26 +163,25 @@ juyel@dev:~$ _
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-134e2e?style=flat-square)
 ![Vector DBs](https://img.shields.io/badge/Vector_DBs-134e2e?style=flat-square)
 
-<sub>🐍 <b>Python</b> — indentation errors as a personality trait</sub><br/>
-<sub>🦜 <b>LangChain</b> — 6 abstractions to call one API</sub><br/>
-<sub>🤖 <b>Agentic AI</b> — told the agent to be careful, it deleted prod</sub><br/>
-<sub>🧠 <b>Vector DBs</b> — turning "trust me bro" into cosine similarity</sub>
+<sub>🐍 <b>Python</b> — indentation errors as a personality trait &nbsp;|&nbsp; 🦜 <b>LangChain</b> — 6 abstractions to call one API &nbsp;|&nbsp; 🤖 <b>Agentic AI</b> — told it to be careful, it deleted prod &nbsp;|&nbsp; 🧠 <b>Vector DBs</b> — turning "trust me bro" into cosine similarity</sub>
 
-**`TOOLING // the real MVPs`**
+<img src="https://user-images.githubusercontent.com/74038190/215283039-83bf4f37-3fe5-4d25-a42a-249d1a7e9e4f.gif" width="300">
+
+<br/><br/>
+
+### 🛠️ `TOOLING // the real MVPs`
 
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=39ff14)
 ![GitHub Copilot](https://img.shields.io/badge/Copilot-0d1117?style=flat-square&logo=githubcopilot&logoColor=39ff14)
 ![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=39ff14)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=39ff14)
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="150">
+<img src="https://user-images.githubusercontent.com/74038190/218266069-da299265-d22b-41f5-99f1-cf8bfa951c42.gif" width="300">
 
-</td>
-</tr>
-</table>
+<br/><br/>
 
-<div align="center">
 <sub><i>git commit -m "fixed bug" → git commit -m "actually fixed bug" → git commit -m "please work" → git commit -m "I hate everything"</i></sub>
+
 </div>
 
 <br/>
@@ -196,7 +193,7 @@ juyel@dev:~$ _
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213910843-1d6081ba-52ac-4993-9c17-b9ba9c2c9d61.gif" width="450">
+<img src="https://user-images.githubusercontent.com/74038190/213910843-1d6081ba-52ac-4993-9c17-b9ba9c2c9d61.gif" width="600">
 </div>
 
 ```text
@@ -230,7 +227,7 @@ $ python train.py --resume-from-checkpoint --user juyelhushen --gpu my_last_nerv
 ```
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="140">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="240">
 <br/>
 <sub><i>current validation strategy: it compiled, ship it</i></sub>
 </div>
@@ -273,17 +270,23 @@ $ python train.py --resume-from-checkpoint --user juyelhushen --gpu my_last_nerv
 
 <table>
 <tr>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="120"/><br/>
-<sub><b>"works on my machine"</b></sub>
+<td align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/213760482-f7fa7b7b-7d6c-4063-bdd7-4483749948ad.gif" width="260"/><br/>
+<sub><b>"it's not a bug, it's a feature"</b></sub>
 </td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/238200622-3f5aeafa-04ee-4f31-9c07-6dbd8d208d13.gif" width="120"/><br/>
+<td align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/238200622-3f5aeafa-04ee-4f31-9c07-6dbd8d208d13.gif" width="260"/><br/>
 <sub><b>refactoring at 2am</b></sub>
 </td>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/213910842-5386f042-2f95-4a15-a7d5-9e2acf3d0a4d.gif" width="120"/><br/>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/213910842-5386f042-2f95-4a15-a7d5-9e2acf3d0a4d.gif" width="260"/><br/>
 <sub><b>green checkmarks 🟢</b></sub>
+</td>
+<td align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938a2b2a-3c53-4be6-a815-c62c318dfc75.gif" width="260"/><br/>
+<sub><b>explaining the bug to the rubber duck</b></sub>
 </td>
 </tr>
 </table>
