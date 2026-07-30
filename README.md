@@ -25,17 +25,17 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=2500&pause=1200&color=2DD4BF&background=00000000&center=true&vCenter=true&width=680&lines=Hey%2C+I'm+Juyel+%E2%9C%A6;sudo+summon+another+coffee;git+commit+-m+%22it+compiles%2C+ship+it%22" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=2500&pause=1200&color=6D28D9&background=00000000&center=true&vCenter=true&width=680&lines=Hey%2C+I'm+Juyel+%E2%9C%A6;sudo+summon+another+coffee;git+commit+-m+%22it+compiles%2C+ship+it%22" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=2500&pause=1200&color=2DD4BF&background=00000000&center=true&vCenter=true&width=680&lines=Hey%2C+I'm+Juyel+%E2%9C%A6;sudo+summon+another+coffee;git+commit+-m+%22it+compiles%2C+ship+it%22" alt="typing header" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2200&pause=1000&color=2DD4BF&background=00000000&center=true&vCenter=true&width=720&lines=Hey%2C+I'm+Juyel+%E2%9C%A6;sudo+summon+another+coffee;git+commit+-m+%22it+compiles%2C+ship+it%22;404%3A+motivation+not+found%2C+retrying...;works+on+my+machine+%C2%AE%EF%B8%8F" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2200&pause=1000&color=6D28D9&background=00000000&center=true&vCenter=true&width=720&lines=Hey%2C+I'm+Juyel+%E2%9C%A6;sudo+summon+another+coffee;git+commit+-m+%22it+compiles%2C+ship+it%22;404%3A+motivation+not+found%2C+retrying...;works+on+my+machine+%C2%AE%EF%B8%8F" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2200&pause=1000&color=2DD4BF&background=00000000&center=true&vCenter=true&width=720&lines=Hey%2C+I'm+Juyel+%E2%9C%A6" alt="typing header" />
 </picture>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2200&pause=900&color=A78BFA&background=00000000&center=true&vCenter=true&width=980&lines=%3E+role+%E2%80%94+Software+Engineer+II+%40+Apexon+(Goldman+Sachs+CALM+platform);%3E+daytime+%E2%80%94+Java+%2F+Spring+Boot+%2F+Kafka+in+production;%3E+nighttime+%E2%80%94+Python+%2B+LangChain+%2B+RAG+%2B+agentic+pipelines;%3E+base+%E2%80%94+Bengaluru%2C+India+%E2%97%88+IST+%5BUTC%2B5%3A30%5D;%3E+grind+%E2%80%94+800%2B+LeetCode+problems+and+climbing;%3E+currently+%E2%80%94+hunting+for+the+next+product-company+challenge" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2200&pause=900&color=7C3AED&background=00000000&center=true&vCenter=true&width=980&lines=%3E+role+%E2%80%94+Software+Engineer+II+%40+Apexon+(Goldman+Sachs+CALM+platform);%3E+daytime+%E2%80%94+Java+%2F+Spring+Boot+%2F+Kafka+in+production;%3E+nighttime+%E2%80%94+Python+%2B+LangChain+%2B+RAG+%2B+agentic+pipelines;%3E+base+%E2%80%94+Bengaluru%2C+India+%E2%97%88+IST+%5BUTC%2B5%3A30%5D;%3E+grind+%E2%80%94+800%2B+LeetCode+problems+and+climbing;%3E+currently+%E2%80%94+hunting+for+the+next+product-company+challenge" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2200&pause=900&color=A78BFA&background=00000000&center=true&vCenter=true&width=980&lines=status+ticker" alt="status ticker" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2000&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&width=980&lines=%3E+role+%E2%80%94+Software+Engineer+II+%40+Apexon+(Goldman+Sachs+CALM+platform);%3E+daytime+%E2%80%94+Java+%2F+Spring+Boot+%2F+Kafka+in+production;%3E+nighttime+%E2%80%94+Python+%2B+LangChain+%2B+RAG+%2B+agentic+pipelines;%3E+base+%E2%80%94+Bengaluru%2C+India+%E2%97%88+IST+%5BUTC%2B5%3A30%5D;%3E+grind+%E2%80%94+800%2B+LeetCode+problems+and+climbing;%3E+currently+%E2%80%94+hunting+for+the+next+product-company+challenge;%3E+bugs+fixed+today+%E2%80%94+1%2C+bugs+created+today+%E2%80%94+3;%3E+coffee%3Atest_ratio+%E2%80%94+1%3A1%2C+non-negotiable;%3E+superpower+%E2%80%94+fixing+prod+while+looking+calm+in+standup;%3E+kryptonite+%E2%80%94+a+PR+titled+%22small+fix%22" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2000&pause=800&color=7C3AED&background=00000000&center=true&vCenter=true&width=980&lines=%3E+role+%E2%80%94+Software+Engineer+II+%40+Apexon+(Goldman+Sachs+CALM+platform);%3E+daytime+%E2%80%94+Java+%2F+Spring+Boot+%2F+Kafka+in+production;%3E+nighttime+%E2%80%94+Python+%2B+LangChain+%2B+RAG+%2B+agentic+pipelines;%3E+base+%E2%80%94+Bengaluru%2C+India+%E2%97%88+IST+%5BUTC%2B5%3A30%5D;%3E+grind+%E2%80%94+800%2B+LeetCode+problems+and+climbing;%3E+currently+%E2%80%94+hunting+for+the+next+product-company+challenge;%3E+bugs+fixed+today+%E2%80%94+1%2C+bugs+created+today+%E2%80%94+3;%3E+coffee%3Atest_ratio+%E2%80%94+1%3A1%2C+non-negotiable;%3E+superpower+%E2%80%94+fixing+prod+while+looking+calm+in+standup;%3E+kryptonite+%E2%80%94+a+PR+titled+%22small+fix%22" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2000&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&width=980&lines=status+ticker" alt="status ticker" />
 </picture>
 
 <br/><br/>
@@ -48,9 +48,13 @@
 
 <br/>
 
-![Visitors](https://komarev.com/ghpvc/?username=juyelhushen&label=VISITORS&color=5b21b6&style=for-the-badge)&nbsp;
+![Visitors](https://komarev.com/ghpvc/?username=juyelhushen&label=VICTIMS%20LURED%20HERE&color=5b21b6&style=for-the-badge)&nbsp;
 ![Status](https://img.shields.io/badge/STATUS-COMPILING...-0d9488?style=for-the-badge)&nbsp;
-![Coffee](https://img.shields.io/badge/COFFEE-CRITICALLY_LOW-be185d?style=for-the-badge&logo=buymeacoffee&logoColor=fecdd3)
+![Coffee](https://img.shields.io/badge/COFFEE-CRITICALLY_LOW-be185d?style=for-the-badge&logo=buymeacoffee&logoColor=fecdd3)&nbsp;
+![Bugs](https://img.shields.io/badge/BUGS_FIXED-Yes,_All_Of_Them*-7c3aed?style=for-the-badge)&nbsp;
+![Sleep](https://img.shields.io/badge/SLEEP_SCHEDULE-404_Not_Found-1e1b4b?style=for-the-badge)
+
+<sub><i>*terms and conditions: "all of them" excludes the ones still in prod</i></sub>
 
 </div>
 
@@ -70,26 +74,37 @@
 <tr>
 <td align="center" width="50%">
 <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d8-4d80-b3ce-db349a3c3b7d.gif" width="250"/><br/>
-<sub><b>fires up the IDE, feeling optimistic</b></sub>
+<sub><b>09:00 — opens IDE, whispers "today's the day"</b></sub>
 </td>
 <td align="center" width="50%">
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="250"/><br/>
-<sub><b>writes 3 lines, breaks 2 tests</b></sub>
+<sub><b>09:04 — writes 3 lines, breaks 2 tests, questions life</b></sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
 <img src="https://user-images.githubusercontent.com/74038190/221857984-c02be273-8f0c-4a41-8dd8-4c1ba7bec5b2.gif" width="250"/><br/>
-<sub><b>negotiates with the stack trace</b></sub>
+<sub><b>14:00 — enters hostage negotiations with the stack trace</b></sub>
 </td>
 <td align="center" width="50%">
 <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="250"/><br/>
-<sub><b>ships it anyway, prays quietly 🚀</b></sub>
+<sub><b>18:00 — ships it anyway, mutes Slack, sprints to the exit 🚀</b></sub>
 </td>
 </tr>
 </table>
 
 <sub><i>repeat daily — commit history does not capture the emotional damage</i></sub>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/206662607-4dc73d1e-9793-4b26-b2b0-13ca07b90d90.gif" width="35">&nbsp;<b>BUG BINGO</b>&nbsp;<img src="https://user-images.githubusercontent.com/74038190/206662607-4dc73d1e-9793-4b26-b2b0-13ca07b90d90.gif" width="35">
+
+| 🎯 Works Locally | 🌀 Cache Issue | 🧟 Zombie Thread |
+|:---:|:---:|:---:|
+| **🙈 "Not My Module"** | **🆓 FREE SPACE** | **☕ Ran Out of Coffee** |
+| 🔥 Prod-Only Bug | 🕰️ Timezone Off-by-One | 👻 Null That Shouldn't Exist |
+
+<sub><i>have you hit full bingo this sprint? be honest.</i></sub>
 
 </div>
 
@@ -122,12 +137,29 @@ juyel@dev:~$ ./deploy.sh --env production
 [INFO]  pushing to registry................. done
 [INFO]  rolling out......................... done
 [SUCCESS] deployment complete. no rollback needed (this time).
+[NOTE]    if it breaks now, it's a "known issue," not my fault
 
 juyel@dev:~$ echo "coffee_level"
-☕☕☕░░░░░░░  30% — send help
+☕☕☕░░░░░░░  30% — send help immediately, this is not a drill
+
+juyel@dev:~$ sudo apt install more-motivation
+[ERROR] package "more-motivation" not found in any repository
+[HINT]  try `apt install coffee` instead
 
 juyel@dev:~$ _
 ```
+
+<br/>
+
+<div align="center">
+<sub>🎲 <b>EXCUSE GENERATOR</b> — refreshes every time recruiters ask "why is this PR still open?" 🎲</sub>
+<br/><br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1800&pause=1400&color=2DD4BF&background=00000000&center=true&vCenter=true&width=760&lines=%22It+worked+in+staging%2C+I+swear%22;%22The+intern+pushed+that%2C+not+me%22;%22It's+a+feature%2C+the+docs+just+don't+exist+yet%22;%22Copilot+wrote+that+part%2C+blame+it%22;%22Merge+conflict%3F+Never+heard+of+her%22;%22I+was+just+about+to+write+tests+for+that%22" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1800&pause=1400&color=6D28D9&background=00000000&center=true&vCenter=true&width=760&lines=%22It+worked+in+staging%2C+I+swear%22;%22The+intern+pushed+that%2C+not+me%22;%22It's+a+feature%2C+the+docs+just+don't+exist+yet%22;%22Copilot+wrote+that+part%2C+blame+it%22;%22Merge+conflict%3F+Never+heard+of+her%22;%22I+was+just+about+to+write+tests+for+that%22" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1800&pause=1400&color=2DD4BF&background=00000000&center=true&vCenter=true&width=760&lines=excuse+generator" alt="excuse generator" />
+</picture>
+</div>
 
 <br/>
 
@@ -204,7 +236,31 @@ juyel@dev:~$ _
 
 <br/><br/>
 
-<sub><i>git commit -m "fixed bug" → git commit -m "actually fixed bug" → git commit -m "please work" → git commit -m "I have made peace with everything"</i></sub>
+<sub><i>git commit -m "fixed bug" → git commit -m "actually fixed bug" → git commit -m "please work" → git commit -m "I have made peace with everything" → git commit -m "reverting all of the above"</i></sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:5b21b6,100:2dd4bf&height=42&section=header&text=ACHIEVEMENTS%20UNLOCKED&fontSize=14&fontColor=e6edf3&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:ffffff,50:c4b5fd,100:99f6e4&height=42&section=header&text=ACHIEVEMENTS%20UNLOCKED&fontSize=14&fontColor=1f2328&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:5b21b6,100:2dd4bf&height=42&section=header&text=ACHIEVEMENTS%20UNLOCKED&fontSize=14&fontColor=e6edf3&animation=fadeIn" width="100%" alt="divider" />
+</picture>
+
+<br/>
+
+![Achievement](https://img.shields.io/badge/🏆-Fixed_a_bug_by_restarting_the_laptop-5b21b6?style=for-the-badge)
+![Achievement](https://img.shields.io/badge/🏆-Survived_a_Goldman_Sachs_code_review-0d9488?style=for-the-badge)
+![Achievement](https://img.shields.io/badge/🏆-Explained_Kafka_to_a_non--engineer-be185d?style=for-the-badge)
+
+![Achievement](https://img.shields.io/badge/🏆-800%2B_LeetCode_%2F_only_cried_at_20%25_of_them-1e1b4b?style=for-the-badge)
+![Achievement](https://img.shields.io/badge/🏆-Made_ChatGPT_write_ChatGPT_prompts-7c3aed?style=for-the-badge)
+![Achievement](https://img.shields.io/badge/🏆-Survived_the_Amazon_bar_raiser_round-991b1b?style=for-the-badge)
+
+<sub><i>achievements are self-reported and lightly exaggerated, like most resumes</i></sub>
 
 </div>
 
@@ -249,9 +305,11 @@ $ python train.py --resume-from-checkpoint --user juyelhushen --gpu my_last_nerv
 
 [WARN]  caffeine levels below recommended threshold
 [WARN]  model occasionally hallucinates that the Stack Overflow answer will work
+[WARN]  model confidently wrong 12% of the time, same as most senior engineers
 [ERROR] rubber duck stopped responding to questions
+[ERROR] rubber duck has filed for emotional damages
 [INFO]  no overfitting detected on weekdays. weekends: unverified.
-[INFO]  training will continue until morale improves.
+[INFO]  training will continue until morale improves. eta: never.
 ```
 
 <div align="center">
@@ -340,21 +398,21 @@ $ python train.py --resume-from-checkpoint --user juyelhushen --gpu my_last_nerv
 <tr>
 <td align="center" width="50%">
 <img src="https://user-images.githubusercontent.com/74038190/213760482-f7fa7b7b-7d6c-4063-bdd7-4483749948ad.gif" width="250"/><br/>
-<sub><b>"it's not a bug, it's a feature"</b></sub>
+<sub><b>"it's not a bug, it's a surprise feature"</b></sub>
 </td>
 <td align="center" width="50%">
 <img src="https://user-images.githubusercontent.com/74038190/238200622-3f5aeafa-04ee-4f31-9c07-6dbd8d208d13.gif" width="250"/><br/>
-<sub><b>refactoring at 2am for no reason</b></sub>
+<sub><b>refactoring at 2am for absolutely no reason</b></sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
 <img src="https://user-images.githubusercontent.com/74038190/213910842-5386f042-2f95-4a15-a7d5-9e2acf3d0a4d.gif" width="250"/><br/>
-<sub><b>all green checkmarks 🟢</b></sub>
+<sub><b>all green checkmarks 🟢 (CI is lying, we all know it)</b></sub>
 </td>
 <td align="center" width="50%">
 <img src="https://user-images.githubusercontent.com/74038190/212750996-938a2b2a-3c53-4be6-a815-c62c318dfc75.gif" width="250"/><br/>
-<sub><b>explaining the bug to the rubber duck</b></sub>
+<sub><b>explaining the bug to the duck, duck files a complaint</b></sub>
 </td>
 </tr>
 </table>
@@ -366,8 +424,8 @@ $ python train.py --resume-from-checkpoint --user juyelhushen --gpu my_last_nerv
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2500&pause=1000&color=A78BFA&background=00000000&center=true&vCenter=true&width=800&lines=%E2%9C%A6+Thanks+for+stopping+by.+Fork+something%2C+star+something%2C+say+hi.;Still+training.+Still+shipping.+Still+out+of+coffee.+%E2%9C%A6;404%3A+sleep+schedule+not+found." />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2500&pause=1000&color=6D28D9&background=00000000&center=true&vCenter=true&width=800&lines=%E2%9C%A6+Thanks+for+stopping+by.+Fork+something%2C+star+something%2C+say+hi.;Still+training.+Still+shipping.+Still+out+of+coffee.+%E2%9C%A6;404%3A+sleep+schedule+not+found." />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2200&pause=900&color=A78BFA&background=00000000&center=true&vCenter=true&width=820&lines=%E2%9C%A6+Thanks+for+stopping+by.+Fork+something%2C+star+something%2C+say+hi.;Still+training.+Still+shipping.+Still+out+of+coffee.+%E2%9C%A6;404%3A+sleep+schedule+not+found.;if+you're+reading+this%2C+you+scrolled+further+than+my+manager+does;star+this+repo+and+I+will+fix+one+production+bug+in+your+honor" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2200&pause=900&color=6D28D9&background=00000000&center=true&vCenter=true&width=820&lines=%E2%9C%A6+Thanks+for+stopping+by.+Fork+something%2C+star+something%2C+say+hi.;Still+training.+Still+shipping.+Still+out+of+coffee.+%E2%9C%A6;404%3A+sleep+schedule+not+found.;if+you're+reading+this%2C+you+scrolled+further+than+my+manager+does;star+this+repo+and+I+will+fix+one+production+bug+in+your+honor" />
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2500&pause=1000&color=A78BFA&background=00000000&center=true&vCenter=true&width=800&lines=footer+message" alt="footer message" />
 </picture>
 
