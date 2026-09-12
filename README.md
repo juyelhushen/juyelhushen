@@ -1,8 +1,10 @@
 <div align="center">
 
-# Hi, I'm Juyel Hushen 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a5f,100:0d9488&height=180&section=header&text=Juyel%20Hushen&fontSize=42&fontColor=e6edf3&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%2B%20AI%2FAgentic%20Systems&descSize=16&descAlignY=58&descColor=99f6e4&animation=fadeIn" width="100%" alt="header"/>
 
-Software Engineer II @ **Apexon**, working on-site with **Goldman Sachs** on the **CALM (Client Lifecycle Management)** platform. Java/Spring backend by day, building toward **AI / Agentic Engineering** (LangChain, LangGraph, RAG) by night.
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1200&color=2DD4BF&center=true&vCenter=true&width=680&lines=Backend+Engineer+%40+Apexon+%2F+Goldman+Sachs+CALM;Java+%C2%B7+Spring+Boot+%C2%B7+Kafka+%C2%B7+PostgreSQL+%C2%B7+AWS;Building+toward+AI+%2F+Agentic+Engineering;LangChain+%C2%B7+LangGraph+%C2%B7+RAG+Pipelines" alt="typing tagline"/>
 
 </div>
 
@@ -51,7 +53,7 @@ Software Engineer II @ **Apexon**, working on-site with **Goldman Sachs** on the
 
 ### AI / Agentic Engineering focus:
 
-`LangChain` &nbsp;•&nbsp; `LangGraph`  &nbsp;•&nbsp; `Agentic AI` &nbsp;•&nbsp; `MCP` &nbsp;•&nbsp; `RAG Pipelines` &nbsp;•&nbsp; `Vector DBs` &nbsp;•&nbsp; `OpenAI API` &nbsp;•&nbsp; `Hugging Face`
+`LangChain` &nbsp;•&nbsp; `LangGraph` &nbsp;•&nbsp; `RAG Pipelines` &nbsp;•&nbsp; `Vector DBs` &nbsp;•&nbsp; `OpenAI API` &nbsp;•&nbsp; `Hugging Face`
 
 <br/>
 
@@ -61,5 +63,15 @@ Software Engineer II @ **Apexon**, working on-site with **Goldman Sachs** on the
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=juyelhushen&show_icons=true&theme=default&hide_border=true" alt="github stats"/>
 <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=juyelhushen&hide_border=true" alt="streak stats"/>
 </p>
+
+<br/>
+
+### Contribution Activity:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juyelhushen/juyelhushen/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juyelhushen/juyelhushen/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution grid snake" src="https://raw.githubusercontent.com/juyelhushen/juyelhushen/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
