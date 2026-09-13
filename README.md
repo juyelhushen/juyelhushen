@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a5f,100:0d9488&height=180&section=header&text=Juyel%20Hushen&fontSize=42&fontColor=e6edf3&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%2B%20AI%2FAgentic%20Systems&descSize=16&descAlignY=58&descColor=99f6e4&animation=fadeIn" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1e3a5f,100:0d9488&height=140&text=Juyel%20Hushen&fontSize=40&fontColor=e6edf3&fontAlignY=42&desc=Software%20Engineer%20%7C%20Backend%20%2B%20AI%2FAgentic%20Systems&descSize=15&descAlignY=68&descColor=99f6e4&animation=fadeIn" width="100%" alt="header"/>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="480" alt="terminal animation"/>
 
 <br/>
 
@@ -21,7 +25,7 @@
 ### Connect with me:
 
 <p align="center">
-<a href="https://www.linkedin.com/in/juyel-h-770674170/" target="_blank">
+<a href="https://linkedin.com/in/juyel-hushen-770674170/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn" />
 </a>
 &nbsp;
