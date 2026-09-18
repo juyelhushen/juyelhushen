@@ -32,6 +32,10 @@
 <a href="https://leetcode.com/u/Juyel/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40" alt="LeetCode" />
 </a>
+&nbsp;
+<a href="https://www.geeksforgeeks.org/profile/juyelhushen?tab=activity" target="_blank">
+  <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="40" height="40" alt="GeeksforGeeks" />
+</a>
 </p>
 
 ### Languages and Tools:
@@ -57,7 +61,7 @@
 
 ### AI / Agentic Engineering focus:
 
-`LangChain` &nbsp;•&nbsp; `LangGraph` &nbsp;•&nbsp; `RAG Pipelines` &nbsp;•&nbsp; `Vector DBs` &nbsp;•&nbsp; `OpenAI API` &nbsp;•&nbsp; `Hugging Face`
+`LangChain` &nbsp;•&nbsp; `LangGraph` &nbsp;•&nbsp; `RAG Pipelines` &nbsp;•&nbsp; `Vector DBs` &nbsp;•&nbsp; `MCP` &nbsp;•&nbsp; `OpenAI API` &nbsp;•&nbsp; `Hugging Face`
 
 <br/>
 
