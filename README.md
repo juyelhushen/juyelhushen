@@ -68,8 +68,8 @@
 ### GitHub Stats:
 
 <p align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=juyelhushen&show_icons=true&theme=default&hide_border=true" alt="github stats"/>
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=juyelhushen&hide_border=true" alt="streak stats"/>
+<img height="165em" src="./profile/stats.svg" alt="github stats"/>
+<img height="165em" src="./profile/top-langs.svg" alt="top languages"/>
 </p>
 
 <br/>
