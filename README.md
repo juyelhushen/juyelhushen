@@ -68,9 +68,12 @@
 ### GitHub Stats:
 
 <p align="center">
-<img height="165em" src="./profile/stats.svg" alt="github stats"/>
-<img height="165em" src="./profile/top-langs.svg" alt="top languages"/>
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=juyelhushen&hide_border=true" alt="streak stats"/>
 </p>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=juyelhushen&label=Profile%20Views&color=0d9488&style=flat-square" alt="profile views"/>
 
 <br/>
 
