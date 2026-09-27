@@ -22,12 +22,12 @@
 
   <!-- meta labels -->
   <text x="24" y="21" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#7d8590">&#x2387; main</text>
-  <text x="560" y="21" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#7d8590" text-anchor="start">java17 · kafka partitions=64</text>
+  <text x="560" y="21" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" fill="#7d8590" text-anchor="start">java21 · kafka partitions=64</text>
 
   <!-- name block -->
   <text x="24" y="86" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="34" font-weight="600" letter-spacing="0.5" fill="#e6edf3">Juyel Hushen</text>
-  <text x="25" y="116" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="15" letter-spacing="3" fill="#00ADD1">BACKEND &amp; AGENTIC ENGINEERING</text>
-  <text x="25" y="146" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" fill="#7d8590">Java · Spring Boot · Kafka · PostgreSQL · Redis · AWS</text>
+  <text x="25" y="116" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="15" letter-spacing="3" fill="#00ADD1">FULL STACK &amp; AGENTIC ENGINEERING</text>
+  <text x="25" y="146" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" fill="#7d8590">Java · Spring Boot · React · Kafka · PostgreSQL · AWS · LangGraph</text>
 
   <!-- channels (fan-out) -->
   <use href="#ch1" stroke="#21262d" stroke-width="1"/>
