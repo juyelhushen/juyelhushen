@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Juyel&#39;s GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 91, Total Commits  (last year) : 216, Total PRs: 164, Total Issues: 1, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 91, Total Commits  (last year) : 220, Total PRs: 165, Total Issues: 1, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 102.42676274182136;
+        stroke-dashoffset: 102.08388224280309;
       }
     }
   
@@ -184,7 +184,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >216</text>
+      >220</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >164</text>
+      >165</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
