@@ -3,14 +3,11 @@
 
 ![Juyel Hushen — Software Engineer](https://raw.githubusercontent.com/juyelhushen/juyelhushen/main/assets/header.svg)
 
+![now](https://raw.githubusercontent.com/juyelhushen/juyelhushen/main/assets/now.svg)
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="480" alt="terminal animation"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1200&color=2DD4BF&center=true&vCenter=true&width=680&lines=Backend+Engineer+%40+Apexon+%2F+Goldman+Sachs+CALM;Java+%C2%B7+Spring+Boot+%C2%B7+Kafka+%C2%B7+PostgreSQL+%C2%B7+AWS;Building+toward+AI+%2F+Agentic+Engineering;LangChain+%C2%B7+LangGraph+%C2%B7+RAG+Pipelines" alt="typing tagline"/>
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1200&color=2DD4BF&center=true&vCenter=true&width=680&lines=Backend+Engineer+%40+Apexon+%2F+Goldman+Sachs+CALM;Java+%C2%B7+Spring+Boot+%C2%B7+Kafka+%C2%B7+PostgreSQL+%C2%B7+AWS;Building+toward+AI+%2F+Agentic+Engineering;LangChain+%C2%B7+LangGraph+%C2%B7+RAG+Pipelines" alt="typing tagline"/> -->
 
 </div>
 
@@ -64,6 +61,10 @@
 ### AI / Agentic Engineering focus:
 
 `LangChain` &nbsp;•&nbsp; `LangGraph` &nbsp;•&nbsp; `RAG Pipelines` &nbsp;•&nbsp; `Vector DBs` &nbsp;•&nbsp; `MCP` &nbsp;•&nbsp; `OpenAI API` &nbsp;•&nbsp; `Hugging Face`
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="480" alt="terminal animation"/>
 
 <br/>
 
