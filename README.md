@@ -1,6 +1,18 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1e3a5f,100:0d9488&height=140&text=Juyel%20Hushen&fontSize=40&fontColor=e6edf3&fontAlignY=42&desc=Software%20Engineer%20%7C%20Backend%20%2B%20AI%2FAgentic%20Systems&descSize=15&descAlignY=68&descColor=99f6e4&animation=fadeIn" width="100%" alt="header"/>
+![Juyel Hushen — Software Engineer](https://raw.githubusercontent.com/juyelhushen/juyelhushen/main/assets/header.svg)
+
+![now](https://raw.githubusercontent.com/juyelhushen/juyelhushen/main/assets/now.svg)
+
+![Java](https://img.shields.io/badge/Java-white?style=flat&logo=openjdk&logoColor=white&labelColor=555555)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Bengaluru](https://img.shields.io/badge/Bengaluru-India-555555?style=flat)
+
 
 <br/>
 
